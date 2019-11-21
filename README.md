@@ -2,30 +2,6 @@
 
 #### 设计资料：
 
-**已知数据：**
-
-（1）低速货车的有关数据：
-
-装载质量     2500kg    整车装备质量   2200kg
-
-总质量      4700kg     车轮半径     0.367m
-
-传动系机械效率  ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)   空气阻力系数´迎风面积=2.77m²
-
-滚动阻力系数  ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)
-
-飞轮转动惯量   ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif) 
-
-两前轮的转动惯量 ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image018.gif)两后轮的转动惯量 ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image020.gif)
-
-主减速器传动比  ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image022.gif)    轴距     ![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image024.gif)
-
-质心至前轴距离（满载）![img](file:///C:/Users/mumiao/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif) 质心高   0.9m  
-
-汽车最高限速70km/h 
-
-变速器的档位为五档 
-
 **目的和要求**
 
 《汽车设计》课程设计是在完成基础课和大部分专业课学习后的一个集中实践教学环节，是应用已学到的理论知识来解决实际工程问题的一次训练，并为毕业设计奠定基础。
@@ -85,3 +61,4 @@
 **考核方法及标准**
 
 以平时出勤率、课程设计说明书完成质量和答辩相结合综合评定。
+
