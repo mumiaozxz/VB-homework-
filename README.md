@@ -62,3 +62,16 @@
 
 以平时出勤率、课程设计说明书完成质量和答辩相结合综合评定。
 
+ 
+
+**编制程序软件，绘制汽车驱动力与行驶阻力平衡图，汽车功率平衡图。  **
+
+代码及运行截图:
+
+![运行截图](https://github.com/mumiaozxz/VB-homework-/blob/master/images/0.PNG)
+
+![运行截图](https://github.com/mumiaozxz/VB-homework-/blob/master/images/1.PNG)
+
+![运行截图](https://github.com/mumiaozxz/VB-homework-/blob/master/images/2.PNG)
+
+![运行截图](https://github.com/mumiaozxz/VB-homework-/blob/master/images/3.PNG)
